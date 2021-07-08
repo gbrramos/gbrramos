@@ -6,7 +6,7 @@
   * **My principal stacks are PHP, Laravel, AJAX and SQL. HTML, Sass, JS and jQuery;**
   * **Currently studying System Analysis and Development;**
   <hr>
-  ** Currently I'm looking for a new job, preferably by Backend developer, but also accepted by Frontend dev **
+  * Currently I'm looking for a new job, preferably by Backend developer, but also accepted by Frontend dev *
 
   
   
