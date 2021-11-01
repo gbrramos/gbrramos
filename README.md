@@ -6,7 +6,7 @@
   * **I have knowledge in Java, PHP, Laravel, AJAX, MySQL, ReactNative and NodeJS. HTML, Sass, JS and jQuery;**
   * **Currently studying System Analysis and Development at FATEC;**
   ---
-  **Currently working at Controle de Acesso Valltech**
+  **Currently working at Valltech**
 
   
   
