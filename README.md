@@ -5,6 +5,8 @@
 - I have 4 years of experience in software development. 
 - Some stacks that I have knowledge are below.
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ramos-oliveira-b845581a3/)
+
 ### Stacks
 <div>
     <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
@@ -22,6 +24,7 @@
 
 #
 - Currently working at Theros Digital
+
 ![Github Snake Animation](https://user-images.githubusercontent.com/50845287/198006983-1a7c22e4-633f-41c5-b5f7-201278b1700d.svg)
 
 
