@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Gabriel 👨🏻‍💻
 
-- 20 years old, I'm Brazilian and I am living in Amora, Setubal in Portugal.
+- 20 years old, I'm Brazilian and I am living in Amora, Seixal, Setubal in Portugal.
 - I have 4 years of experience in software development. 
 - Some stacks that I have knowledge are below.
 
