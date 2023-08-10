@@ -1,8 +1,8 @@
 
 ## Hi there 👋 I'm Gabriel 👨🏻‍💻
 
-- 20 years old, I'm Brazilian and I am living in Amora, Seixal, Setubal in Portugal.
-- I have 4 years of experience in software development. 
+- 21 years old, I'm Brazilian and I am living in Amora, Seixal, Setubal in Portugal.
+- I have 5 years of experience in software development. 
 - Some stacks that I have knowledge are below.
 
 <a href="https://www.linkedin.com/in/gabriel-ramos-oliveira-b845581a3/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
