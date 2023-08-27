@@ -25,8 +25,3 @@
 #
 
 ![Github Snake Animation](https://user-images.githubusercontent.com/50845287/198006983-1a7c22e4-633f-41c5-b5f7-201278b1700d.svg)
-
-
-<a target="_blank" href="https://www.zaask.pt/user/gabrielolv2002"><img src="https://www.zaask.pt/widget?user=773746&widget=pro-findme" alt="" /></a>
-
-
