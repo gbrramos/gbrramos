@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Gabriel 👨🏻‍💻
 
-- 21 years old, I'm Brazilian and I am living in Palmela, Portugal.
+- 22 years old, I'm Brazilian and I am living in Palmela, Portugal.
 - I have 5 years of experience in software development. 
 - Some stacks that I have knowledge are below.
 
