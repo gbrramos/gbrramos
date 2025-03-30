@@ -2,7 +2,7 @@
 ## Hi there 👋 I'm Gabriel 👨🏻‍💻
 
 - 22 years old, I'm Brazilian and I am living in Palmela, Portugal.
-- I have 5 years of experience in software development. 
+- I have 7 years of experience in software development. 
 - Some stacks that I have knowledge are below.
 
 <a href="https://www.linkedin.com/in/gabriel-oliveira-b845581a3/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
